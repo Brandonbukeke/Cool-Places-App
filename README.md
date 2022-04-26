@@ -7,7 +7,7 @@ An android application that allow users to take photos of cool places they visit
 ## Screenshots
 ### Home
 
-![alt text](https://github.com/Brandonbukeke/screenshots/blob/main/Screenshots/home%20coolplaces.jpg)
+![](https://github.com/Brandonbukeke/screenshots/blob/main/Screenshots/home%20coolplaces.jpg)
 
 ### Add Cool Place
 
