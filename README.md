@@ -7,21 +7,21 @@ An android application that allow users to take photos of cool places they visit
 ## Screenshots
 ### Home
 
-![](https://github.com/Brandonbukeke/screenshots/blob/main/Screenshots/home%20coolplaces.jpg)
+![alt text](https://github.com/Brandonbukeke/screenshots/blob/main/Screenshots/home%20coolplaces.jpg)
 
 ### Add Cool Place
 
-![](https://github.com/Brandonbukeke/screenshots/blob/main/Screenshots/add%20coolplaces.jpg)
+![alt text](https://github.com/Brandonbukeke/screenshots/blob/main/Screenshots/add%20coolplaces.jpg)
 
 ### Swipe Right to edit
 
-![](https://github.com/Brandonbukeke/screenshots/blob/main/Screenshots/swipe%20right%20to%20edit%20coolplaces.jpg)
+![alt text](https://github.com/Brandonbukeke/screenshots/blob/main/Screenshots/swipe%20right%20to%20edit%20coolplaces.jpg)
 
 ### Swipe Left to delete
 
-![](https://github.com/Brandonbukeke/screenshots/blob/main/Screenshots/Swipe%20left%20to%20delete%20coolplaces.jpg)
+![alt text](https://github.com/Brandonbukeke/screenshots/blob/main/Screenshots/Swipe%20left%20to%20delete%20coolplaces.jpg)
 
 ### Details of Cool places
 
-![](https://github.com/Brandonbukeke/screenshots/blob/main/Screenshots/cool%20place%20details.coolplaces.jpg)
+![alt text](https://github.com/Brandonbukeke/screenshots/blob/main/Screenshots/cool%20place%20details.coolplaces.jpg)
 
